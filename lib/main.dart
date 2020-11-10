@@ -140,7 +140,7 @@ class MyApp extends StatelessWidget {
                   print(getCpass);
 
                 },
-                  color: Colors.amberAccent,
+                  color: Colors.pink,
                   child: Text("REGISTER"),
                 )
               ],
